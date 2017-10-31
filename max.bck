@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX745
+D Li ion battery charger
+F datasheets/MAX745.pdf
+$ENDCMP
+#
+$CMP MAX931
+D Comparator with hysteresis (low power)
+K Comparator
+F https://datasheets.maximintegrated.com/en/ds/MAX931-MAX934.pdf
+$ENDCMP
+#
+#End Doc Library
